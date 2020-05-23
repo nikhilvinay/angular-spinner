@@ -1,0 +1,25 @@
+{
+  "name": "vb-spinner",
+  "version": "1.0.0",
+  "description": "This package will lets you tohandle loader while loading data or anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilvinay/angular-spinner.git"
+  },
+  "keywords": [
+    "spinner",
+    "loader",
+    "angular",
+    "spinner"
+  ],
+  "author": "Vinay Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilvinay/angular-spinner/issues"
+  },
+  "homepage": "https://github.com/nikhilvinay/angular-spinner#readme"
+}

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { VbService } from '../vb.service';
+import { VbService } from '../../vb.service';
 
 @Component({
   selector: 'vb-spinner',
@@ -8,7 +8,7 @@ import { VbService } from '../vb.service';
 })
 export class VbSpinnerComponent implements OnInit {
 
-  constructor(private vbService: VbService) {
+  constructor(public vbService: VbService) {
     // this.vbService.setOverlay.next(false);
   }
 

@@ -3,12 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { VbSpinnerComponent } from './vb-spinner/vb-spinner.component';
+// import { VbSpinnerComponent } from './vb/vb-spinner/vb-spinner.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    VbSpinnerComponent
+    // VbSpinnerComponent
   ],
   imports: [
     BrowserModule,
